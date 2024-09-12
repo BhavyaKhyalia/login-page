@@ -230,11 +230,7 @@ mysqli_close($data);
 </head>
 
 <body>
-    <div class="header">
-        <img src="drdologo.jpg" alt="DRDO Logo">
-        <h1>अग्नि, विस्फोटक और पर्यावरण सुरक्षा केंद्र (सीएफईईएस)<br>
-        Centre for Fire, Explosive and Environment Safety (CFEES) </h1>
-    </div>
+    
     <div class="main-content">
         <div class="image-container">
             <div class="heading"><h1 style="color:firebrick">Information Security Guidelines Portal</h1></div>
@@ -263,7 +259,7 @@ mysqli_close($data);
         </div>
     </div>
     <footer>
-        <h3>Designed and maintained by QRS&IT group.</h3>
+        <h3></h3>
     </footer>
 
 </body>
